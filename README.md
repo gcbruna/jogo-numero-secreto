@@ -4,6 +4,8 @@
 
 https://jogo-numero-secreto-green-phi.vercel.app/
 
+ Recomenda-se o uso no Computador
+
 <h2>Browser compatibility</h2>
 
 <li>Edge</li>
