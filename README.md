@@ -2,6 +2,8 @@
 
 >Speech recognition
 
+https://jogo-numero-secreto-green-phi.vercel.app/
+
 <h2>Browser compatibility</h2>
 
 <li>Edge</li>
