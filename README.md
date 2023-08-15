@@ -2,6 +2,7 @@
 
 >Speech recognition
 
+## Acesse o site aqui! 👇🏻
 https://jogo-numero-secreto-green-phi.vercel.app/
 
  Recomenda-se o uso no Computador
